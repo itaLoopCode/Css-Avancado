@@ -1,0 +1,54 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    flex-wrap: wrap;
+}
+
+body{
+    font-weight: 400;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo h1 {
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.menu {
+    display: flex; 
+}
+
+.menu li {
+margin-left: 10px;
+font-size: 15px;
+}
+
+;menu li a{
+    padding: 11px, 6px;
+    transition: 0.3s ease-in-out;
+}
+
+.menu li a:hover{
+    background-color: green;
+    color: white;
+}
+
+.menu .home{
+    background-color: green;
+    color: white;
+}
+
+.menu .cadastre-se{
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+    padding: 10px 20px;
+}
+

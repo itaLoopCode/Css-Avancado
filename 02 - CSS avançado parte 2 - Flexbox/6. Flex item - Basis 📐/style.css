@@ -1,0 +1,35 @@
+.grow-0 {
+    flex-grow: 0;
+}
+
+.grow-1 {
+    flex-grow: 1;
+}
+
+.grow-2 {
+    flex-grow: 2;
+}
+
+.grow-3 {
+    flex-grow: 3;
+}
+
+.basics-auto {
+    flex-basis: auto;
+}
+
+.basics-0 {
+    flex-basis: 0;
+}
+
+.basics-100 {
+    flex-basis: 100px;
+}
+
+.basics-200 {
+    flex-basis: 200px;
+}
+
+.basics-300 {
+    flex-basis: 300px;
+}
